@@ -1,28 +1,33 @@
 # Sales Data Analysis
 
-This project analyzes sales data using Microsoft Excel. The project includes:
+This project demonstrates core Excel skills using a simulated sales dataset.
 
-- Data cleaning
-- Sorting and filtering
-- KPI calculations (Total Sales, Average Order Value, Total Quantity Sold)
-- Data visualization (Bar Chart: Total Sales per Region)
-- Pivot Table summarizing sales by Region
+## Project Highlights
+
+- Data cleaning and formatting
+- KPI calculations:
+    - Total Sales
+    - Average Order Value
+    - Total Quantity Sold
+- Pivot Table analysis
+- Business visualization (Bar Chart)
+- Professional workbook formatting and structure
 
 ## Purpose
 
-To demonstrate core Excel data analysis skills used in business environments. This project simulates the work of an entry-level data analyst preparing reports for stakeholders.
+To showcase the ability to perform real world tasks in Excel, make a clear presentation, and prepare a report suitable for others to follow.
 
 ## Tools Used
 
 - Microsoft Excel
-- Excel Formulas (SUM, AVERAGE, etc.)
 - Pivot Tables
 - Charts
+- Excel Formulas
 
 ## Skills Demonstrated
 
 - Data Cleaning
-- KPI Calculation
+- Business KPI Reporting
 - Data Visualization
-- Pivot Table Analysis
-- Business Reporting
+- Pivot Table Design
+- Report Presentation
